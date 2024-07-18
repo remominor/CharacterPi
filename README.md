@@ -135,5 +135,3 @@ You can stop with "Ctrl-c".
 You can test the systems by exploring the 'demo.ipynb'.
 
 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dnhkng/GlaDOS&type=Date)](https://star-history.com/#dnhkng/GlaDOS&Date)
